@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# The gedcompendium
+# The gedcompendium <img src='man/figures/logo.png' align="right" height="138" />
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/jl5000/gedcompendium/workflows/R-CMD-check/badge.svg)](https://github.com/jl5000/gedcompendium/actions)
