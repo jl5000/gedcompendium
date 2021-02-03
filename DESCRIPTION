@@ -1,0 +1,19 @@
+Package: gedcompendium
+Title: Load `Tidyged` and its Sister Packages
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jamie",
+           family = "Lendrum",
+           role = c("aut", "cre"),
+           email = "jalendrum@gmail.com")
+Description: Load the ecosystem of packages around the `Tidyged` package.
+URL: https://github.com/jl5000/gedcompendium
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE, roclets = c("namespace", "rd"))
+RoxygenNote: 7.1.1
+Depends:
+    tidyged,
+    tidyged.io
+Remotes: jl5000/tidyged, jl5000/tidyged.io
