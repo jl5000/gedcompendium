@@ -1,5 +1,5 @@
 Package: gedcompendium
-Title: Load `Tidyged` and its Sister Packages
+Title: Load `Tidyged` and Sister Packages
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Jamie",
@@ -16,4 +16,6 @@ RoxygenNote: 7.1.1
 Depends:
     tidyged,
     tidyged.io
-Remotes: jl5000/tidyged, jl5000/tidyged.io
+Remotes: 
+    jl5000/tidyged,
+    jl5000/tidyged.io
