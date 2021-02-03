@@ -1,0 +1,41 @@
+---
+output:  github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# The gedcompendium
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/jl5000/gedcompendium/workflows/R-CMD-check/badge.svg)](https://github.com/jl5000/gedcompendium/actions)
+<!-- badges: end -->
+
+This meta-package loads the `gedcompendium` ecosystem of packages to enable the handling of `tidyged` objects (tibble representations of GEDCOM files), and the main package of this ecosystem is [`tidyged`](https://jl5000.github.io/tidyged/).
+
+## Installation
+
+You can install the development version from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("jl5000/gedcompendium")
+```
+
+## Use
+
+You can load `tidyged` and all of its associated packages at once:
+
+```{r}
+library(gedcompendium)
+```
+
+
