@@ -17,15 +17,15 @@ GEDCOM files), and the main package of this ecosystem is
 
 <center>
 
-<a href="https://github.com/jl5000/tidyged.internals"><img src="https://raw.githubusercontent.com/jl5000/tidyged.internals/main/man/figures/logo.png" height="138"></a>
-<a href="https://github.com/jl5000/tidyged"><img src="https://raw.githubusercontent.com/jl5000/tidyged/master/man/figures/logo.png" height="138"></a>
+<a href="https://github.com/jl5000/tidyged.internals"><img src="https://raw.githubusercontent.com/jl5000/tidyged.internals/main/man/figures/logo.png" align="center" height="138"></a>
+<a href="https://github.com/jl5000/tidyged"><img src="https://raw.githubusercontent.com/jl5000/tidyged/master/man/figures/logo.png" align="center" height="138"></a>
 <br>
-<a href="https://github.com/jl5000/tidyged.io"><img src="https://raw.githubusercontent.com/jl5000/tidyged.io/main/man/figures/logo.png" height="138"></a>
-<a href="https://github.com/jl5000/gedcompendium"><img src="https://raw.githubusercontent.com/jl5000/gedcompendium/main/man/figures/logo.png" height="138"></a>
-<a href="https://github.com/jl5000/visged"><img src="https://raw.githubusercontent.com/jl5000/visged/master/man/figures/logo.png" height="138"></a>
+<a href="https://github.com/jl5000/tidyged.io"><img src="https://raw.githubusercontent.com/jl5000/tidyged.io/main/man/figures/logo.png" align="center" height="138"></a>
+<a href="https://github.com/jl5000/gedcompendium"><img src="https://raw.githubusercontent.com/jl5000/gedcompendium/main/man/figures/logo.png" align="center" height="138"></a>
+<a href="https://github.com/jl5000/visged"><img src="https://raw.githubusercontent.com/jl5000/visged/master/man/figures/logo.png" align="center" height="138"></a>
 <br>
-<a href="https://github.com/jl5000/autoged"><img src="https://raw.githubusercontent.com/jl5000/autoged/main/man/figures/logo.png" height="138"></a>
-<a href="https://github.com/jl5000/geddown"><img src="https://raw.githubusercontent.com/jl5000/geddown/main/man/figures/logo.png" height="138"></a>
+<a href="https://github.com/jl5000/autoged"><img src="https://raw.githubusercontent.com/jl5000/autoged/main/man/figures/logo.png" align="center" height="138"></a>
+<a href="https://github.com/jl5000/geddown"><img src="https://raw.githubusercontent.com/jl5000/geddown/main/man/figures/logo.png" align="center" height="138"></a>
 
 </center>
 
