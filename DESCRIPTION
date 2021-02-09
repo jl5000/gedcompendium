@@ -8,7 +8,7 @@ Authors@R:
            email = "jalendrum@gmail.com")
 Description: Load the ecosystem of packages around the `Tidyged` package.
 URL: https://github.com/jl5000/gedcompendium
-License: MIT + file LICENSE
+License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE, roclets = c("namespace", "rd"))
