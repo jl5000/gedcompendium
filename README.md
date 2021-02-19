@@ -13,7 +13,7 @@ enable the handling of `tidyged` objects (tibble representations of
 GEDCOM files), and the main package of this ecosystem is
 [`tidyged`](https://jl5000.github.io/tidyged/).
 
-<a href="https://github.com/jl5000/tidyged.internals"><img src="https://raw.githubusercontent.com/jl5000/tidyged.internals/main/man/figures/logo.png" align="center" height="138"></a><a href="https://github.com/jl5000/tidyged"><img src="https://raw.githubusercontent.com/jl5000/tidyged/master/man/figures/logo.png" align="center" height="138"></a><a href="https://github.com/jl5000/tidyged.io"><img src="https://raw.githubusercontent.com/jl5000/tidyged.io/main/man/figures/logo.png" align="center" height="138"></a><a href="https://github.com/jl5000/gedcompendium"><img src="https://raw.githubusercontent.com/jl5000/gedcompendium/main/man/figures/logo.png" align="center" height="138"></a><a href="https://github.com/jl5000/visged"><img src="https://raw.githubusercontent.com/jl5000/visged/master/man/figures/logo.png" align="center" height="138"></a><a href="https://github.com/jl5000/autoged"><img src="https://raw.githubusercontent.com/jl5000/autoged/main/man/figures/logo.png" align="center" height="138"></a><a href="https://github.com/jl5000/geddown"><img src="https://raw.githubusercontent.com/jl5000/geddown/main/man/figures/logo.png" align="center" height="138"></a>
+<img src="man/figures/allhex.png" width="65%" style="display: block; margin: auto;" />
 
 ## Installation
 

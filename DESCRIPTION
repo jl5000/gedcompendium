@@ -17,11 +17,13 @@ Depends:
     tidyged,
     visged,
     autoged,
-    tidyged.io
+    tidyged.io,
+    tidyged.utils
 Imports:
     geddown
 Remotes: 
     jl5000/tidyged,
+    jl5000/tidyged.utils,
     jl5000/tidyged.io,
     jl5000/visged,
     jl5000/autoged,
