@@ -45,3 +45,36 @@ library(gedcompendium)
 ```
 
 
+## State of the ecosystem
+
+### tidyged.internals
+
+[![R-CMD-check](https://github.com/jl5000/tidyged.internals/workflows/R-CMD-check/badge.svg)](https://github.com/jl5000/tidyged.internals/actions) [![](https://codecov.io/gh/jl5000/tidyged.internals/branch/main/graph/badge.svg)](https://codecov.io/gh/jl5000/tidyged.internals)
+
+### tidyged
+
+[![R-CMD-check](https://github.com/jl5000/tidyged/workflows/R-CMD-check/badge.svg)](https://github.com/jl5000/tidyged/actions) [![](https://codecov.io/gh/jl5000/tidyged/branch/master/graph/badge.svg)](https://codecov.io/gh/jl5000/tidyged)
+
+### tidyged.io
+
+[![R-CMD-check](https://github.com/jl5000/tidyged.io/workflows/R-CMD-check/badge.svg)](https://github.com/jl5000/tidyged.io/actions) [![](https://codecov.io/gh/jl5000/tidyged.io/branch/main/graph/badge.svg)](https://codecov.io/gh/jl5000/tidyged.io)
+
+### tidyged.utils
+
+[![R-CMD-check](https://github.com/jl5000/tidyged.utils/workflows/R-CMD-check/badge.svg)](https://github.com/jl5000/tidyged.utils/actions) [![](https://codecov.io/gh/jl5000/tidyged.utils/branch/main/graph/badge.svg)](https://codecov.io/gh/jl5000/tidyged.utils)
+
+### shinyged
+
+Not started
+
+### visged
+
+Not started
+
+### autoged
+
+Not started
+
+### geddown
+
+Not started
