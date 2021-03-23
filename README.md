@@ -33,11 +33,12 @@ You can load `tidyged` and all of its associated packages at once:
 ``` r
 library(gedcompendium)
 #> Loading required package: tidyged
+#> Loading required package: tidyged.utils
+#> Loading required package: visged
 #> Loading required package: tidyged.io
 #> When importing existing GEDCOM files, you should ensure that they are error free.
 #> This package assumes imported GEDCOM files are valid and very few validation checks are carried out.
 #> Several GEDCOM validators are available, including an online validator at http://ged-inline.elasticbeanstalk.com/
-#> Loading required package: tidyged.utils
 ```
 
 ## State of the ecosystem
