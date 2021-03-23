@@ -68,7 +68,8 @@ Not started
 
 ### visged
 
-Not started
+[![R-CMD-check](https://github.com/jl5000/visged/workflows/R-CMD-check/badge.svg)](https://github.com/jl5000/visged/actions)
+[![](https://codecov.io/gh/jl5000/visged/branch/master/graph/badge.svg)](https://codecov.io/gh/jl5000/visged)
 
 ### autoged
 

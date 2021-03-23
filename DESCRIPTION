@@ -17,8 +17,10 @@ Depends:
     tidyged,
     tidyged.io,
     tidyged.utils
+    visged
 Remotes: 
     jl5000/tidyged,
     jl5000/tidyged.utils,
-    jl5000/tidyged.io
+    jl5000/tidyged.io,
+    jl5000/visged
 
