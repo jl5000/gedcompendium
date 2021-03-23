@@ -16,7 +16,7 @@ RoxygenNote: 7.1.1
 Depends:
     tidyged,
     tidyged.io,
-    tidyged.utils
+    tidyged.utils,
     visged
 Remotes: 
     jl5000/tidyged,

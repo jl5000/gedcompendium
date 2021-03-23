@@ -2,3 +2,5 @@
 
 import(tidyged)
 import(tidyged.io)
+import(tidyged.utils)
+import(visged)
