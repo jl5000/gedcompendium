@@ -14,11 +14,13 @@ LazyData: true
 Roxygen: list(markdown = TRUE, roclets = c("namespace", "rd"))
 RoxygenNote: 7.1.1
 Depends:
+    tidyged.internals,
     tidyged,
     tidyged.utils,
     visged,
     tidyged.io
 Remotes: 
+    jl5000/tidyged.internals,
     jl5000/tidyged,
     jl5000/tidyged.utils,
     jl5000/tidyged.io,
