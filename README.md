@@ -32,6 +32,8 @@ You can load `tidyged` and all of its associated packages at once:
 
 ``` r
 library(gedcompendium)
+#> Loading required package: tidyged.internals
+#> Loading required package: queryged
 #> Loading required package: tidyged
 #> Loading required package: tidyged.utils
 #> Loading required package: visged
@@ -79,3 +81,8 @@ Not started
 ### geddown
 
 Not started
+
+### queryged
+
+[![R-CMD-check](https://github.com/jl5000/queryged/workflows/R-CMD-check/badge.svg)](https://github.com/jl5000/queryged/actions)
+[![](https://codecov.io/gh/jl5000/queryged/branch/master/graph/badge.svg)](https://codecov.io/gh/jl5000/queryged)

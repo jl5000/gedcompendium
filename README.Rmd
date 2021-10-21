@@ -78,3 +78,7 @@ Not started
 ### geddown
 
 Not started
+
+### queryged
+
+[![R-CMD-check](https://github.com/jl5000/queryged/workflows/R-CMD-check/badge.svg)](https://github.com/jl5000/queryged/actions) [![](https://codecov.io/gh/jl5000/queryged/branch/master/graph/badge.svg)](https://codecov.io/gh/jl5000/queryged)

@@ -1,6 +1,6 @@
 Package: gedcompendium
 Title: Load `Tidyged` and Sister Packages
-Version: 0.0.0.9000
+Version: 0.1.0.9000
 Authors@R: 
     person(given = "Jamie",
            family = "Lendrum",
@@ -15,12 +15,14 @@ Roxygen: list(markdown = TRUE, roclets = c("namespace", "rd"))
 RoxygenNote: 7.1.1
 Depends:
     tidyged.internals,
+    queryged,
     tidyged,
     tidyged.utils,
     visged,
     tidyged.io
 Remotes: 
     jl5000/tidyged.internals,
+    jl5000/queryged,
     jl5000/tidyged,
     jl5000/tidyged.utils,
     jl5000/tidyged.io,
